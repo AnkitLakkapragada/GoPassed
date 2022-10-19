@@ -1,1 +1,1 @@
-"# GoPassed" 
+Go
